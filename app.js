@@ -5,4 +5,4 @@ var intNow = dtNow.getTime() - intTZOffset;
 var intDay = Math.floor(intNow / 86400000); // The number of 'local' days since Jan 1, 1970
 var intQuoteToDisplay = intDay % intQuoteCount;
 
-document.writeln(intQuoteToDisplay);
+document.getElementsByClassName('mdc-daily').setAttribute('src', gambar[intQuoteToDisplay]);
