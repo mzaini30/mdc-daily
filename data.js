@@ -1,5 +1,4 @@
 gambar = [
-	// div
 	'https://scontent.fupg2-1.fna.fbcdn.net/v/t31.0-8/fr/cp0/e15/q65/27709909_355402628261729_3639387719857202251_o.jpg?efg=eyJpIjoiYiJ9&_nc_eui2=v1%3AAeFxNCpDAUdFdTsaBEpt-u-3GREgkggQcvLp5yhvCB2l3qg-hX8kX_wHS13ISirtv-FYNOqleYB8QHF6GjPDevFoDH2MPBJg1Z2WBqh0XYhyqhcWpRqs_0II5muTpGFmsVo&oh=c14337b62743fc6c932626e376496136&oe=5B1BA8C2',
 	'https://scontent.fupg2-1.fna.fbcdn.net/v/t31.0-8/fr/cp0/e15/q65/27913373_356368138165178_794932924161552370_o.jpg?efg=eyJpIjoiYiJ9&_nc_eui2=v1%3AAeEgQz0sB_rav6jbMyGyF2IoXbttTEeRfbu3bqMXuxnKxSrzVX8XnzLk5lMdS87WQM7yHxInETL0nihoRlu0tj4G7p18wk5PUXRlnYgVLez51E7ibCMMqJXh1r4ubzLwI3s&oh=f26d98fb20ddf519dc03bbe4c43f53ab&oe=5B1BA5CD',
 	'https://scontent.fupg2-1.fna.fbcdn.net/v/t31.0-8/fr/cp0/e15/q65/27709957_755844291281117_8762367076340004002_o.jpg?efg=eyJpIjoiYiJ9&_nc_eui2=v1%3AAeFg_IynvPw0z-EOJ-A7m7mlh1KlqwpjoTWF73XmSCam8eAvQ5Z8YdVqV3-dYqP7_UU6FfVUyEXcbYSZFYIhSwKkJeGpuelyvhXFRzDM-2xjK9Cd4nfy6S0CJ7sDRqbuUIk&oh=2ea66e9b7fe1449bb14482ab6f259626&oe=5B1E6BCC',
